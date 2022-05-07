@@ -53,7 +53,7 @@ export default class Cards extends Component{
                             <h5 class="card-title">Our Solar System</h5>
                             <p class="card-text">Explore and learn even more about the hidden and vast solar system. </p>
                             <br/>
-                            <a href="#sol" id="sol" class="card-link">Visit</a>
+                            <a href="#sol" id="sol" class="card-link" onClick={this.context.link}>Visit</a>
                         </div>
                     </div>
                 </div>

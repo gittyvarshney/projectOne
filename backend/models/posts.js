@@ -7,10 +7,6 @@ const userSchema = mongoose.Schema({
         type: String,
         required: true
     },
-    postname :{
-        type: String,
-        required: true
-    },
     content:{
         type: String,
         required: true

@@ -24,7 +24,6 @@ router.post(
     '/createNew',
     [
         check('threadname').not().isEmpty().trim().escape(),
-        check('postname').not().isEmpty().trim().escape(),
         check('content').not().isEmpty().trim().escape(),
         check('userOfPost').not().isEmpty().trim().escape()
     ],
@@ -43,7 +42,6 @@ router.post(
     //create new user model
     var temp = new Posts({
         threadname: req.body.threadname,
-        postname: req.body.postname,
         content: req.body.content,
         userOfPost: req.body.userOfPost
     });
