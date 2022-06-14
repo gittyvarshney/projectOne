@@ -13,7 +13,8 @@ export default class Sidebar extends Component {
 
     state2 = {
         arr: ["React Js","Node js","Express js","Mongo Db"],
-        description: ["lkjdafsjkaslfjddasfasdf","dsafasfdasfdasdf","dasfadsfasfdafsd","dasfasdfasfdadfs"],
+        description: ["This Website is Build Using React Class Components, Used the Create-react-app CLI, Used Context Api for State Management, for UI used Bootstrap 4.x",
+        "dsafasfdasfdasdf","dasfadsfasfdafsd","dasfasdfasfdadfs"],
         path: [pic1,pic2,pic3,pic4]
     }
 
