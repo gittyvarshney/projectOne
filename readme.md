@@ -1,6 +1,6 @@
 # Cosmology Forum
 ## Build Using MERN STACK
-![Comology Platform](https://github.com/gittyvarshney/projectOne/blob/master/cosmology_bg.png?raw=true)
+![Comology Platform](https://raw.githubusercontent.com/gittyvarshney/projectOne/master/cosmology_bg.png?raw=true)
 
 ## Backend:
 
@@ -10,7 +10,7 @@
 
 ### Design
 
-![BE Design](https://github.com/gittyvarshney/projectOne/blob/master/backend_design.jpg?raw=true)
+![BE Design](https://raw.githubusercontent.com/gittyvarshney/projectOne/master/backend_design.jpg?raw=true)
 
 ### Other Libraries Used:
 -   cors
@@ -26,7 +26,7 @@
 -   FontOwesome is used for Icons </br>
 
 ### Design
-![FE Design](https://github.com/gittyvarshney/projectOne/blob/master/frontend.png?raw=true)
+![FE Design](https://raw.githubusercontent.com/gittyvarshney/projectOne/master/frontend.png?raw=true)
 
 ### Other Libraries Used:
 -   axios
